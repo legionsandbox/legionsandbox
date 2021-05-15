@@ -1,3 +1,6 @@
+![Sachleens](https://github.com/legionsandbox/legionsandbox/blob/main/Sachleen_Gits.jpg)
+
+
 ### Hi there 👋
 
 ** Apart from my regular professional life **
@@ -10,5 +13,3 @@
 - 💬 Ask me about ... how to produce music with DAW (FL-Studio)
 - ⚡ Fun fact: ... love motorsports, huge F1 fan
 - 📫 How to reach me: ... phone, email, linkedin, twitter, discord
-
-![Sachleens](https://github.com/legionsandbox/legionsandbox/blob/main/Sachleen_Gits.jpg)
