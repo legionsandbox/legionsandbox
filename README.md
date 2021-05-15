@@ -6,8 +6,9 @@
 #
 #
 #
-#
-# Apart from my regular professional life
+##
+###
+#### Apart from my regular professional life
 
 - 🔭 I’m currently working on ... building an autonomous system for my car with voice control
 - 🌱 I’m currently learning ... Android Things, Lakka, and IoT 
